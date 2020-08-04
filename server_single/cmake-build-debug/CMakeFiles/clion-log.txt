@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/serverDemo/src/server_single
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/serverDemo/src/server_single/cmake-build-debug

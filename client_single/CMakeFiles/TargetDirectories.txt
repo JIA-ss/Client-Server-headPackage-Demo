@@ -1,0 +1,3 @@
+/Users/sjs/CLionProjects/client_single/CMakeFiles/rebuild_cache.dir
+/Users/sjs/CLionProjects/client_single/CMakeFiles/edit_cache.dir
+/Users/sjs/CLionProjects/client_single/CMakeFiles/client_single.dir
